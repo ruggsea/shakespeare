@@ -1,0 +1,17 @@
+transformers
+torch
+wandb
+accelerate
+pandas
+datasets
+huggingface_hub
+scikit-learn
+numpy
+matplotlib
+seaborn
+tqdm
+gradio
+ipython
+jupyter
+
+

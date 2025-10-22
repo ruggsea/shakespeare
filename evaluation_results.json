@@ -1,0 +1,17 @@
+{
+  "accuracy": 0.9820312115394083,
+  "f1_score": 0.9657726931732933,
+  "confusion_matrix": [
+    [
+      29597,
+      269
+    ],
+    [
+      461,
+      10299
+    ]
+  ],
+  "model_name": "lanretto/shakespeare-authenticator",
+  "test_samples": 40626,
+  "misclassified_count": 730,
+  "average_confidence": 

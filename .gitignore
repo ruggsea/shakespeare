@@ -1,0 +1,98 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# PyTorch & ML Models
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+models/
+checkpoints/
+saved_models/
+outputs/
+runs/
+
+# Datasets & Data
+*.csv
+*.parquet
+*.arrow
+*.jsonl
+*.json.gz
+data/
+datasets/
+cache/
+download/
+*.hdf5
+*.h5
+
+# Weights & Biases
+wandb/
+*.wandb
+
+# Logs
+logs/
+*.log
+
+# Hugging Face
+.cache/
+hub/
+transformers_cache/
+huggingface_cache/
+*.lock
+# Model directories
+best-shakespeare-model/
+*-shakespeare-model/
+fine_tuned_*/
+trained_models/
+shakespeare-authenticator/
+shakespeare-classifier/
+
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Gradio
+gradio_cached_examples/
+flagged/
+
+
