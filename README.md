@@ -2,7 +2,7 @@
 
 A BERT-based binary classifier for authenticating Shakespearean text.
 
-This project was created as a collaborative learning exercise between [@ruggsea](https://github.com/ruggsea) and [@lanretto](https://github.com/lanretto) to teach the fundamentals of fine-tuning BERT models.
+This project was created as a collaborative learning exercise between [@ruggsea](https://github.com/ruggsea) and [@niyimoluga](https://github.com/niyimoluga) (Larry) to teach the fundamentals of fine-tuning BERT models.
 
 ## Dataset
 
