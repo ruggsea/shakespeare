@@ -14,4 +14,5 @@
   "model_name": "lanretto/shakespeare-authenticator",
   "test_samples": 40626,
   "misclassified_count": 730,
-  "average_confidence": 
+  "average_confidence": null
+}
